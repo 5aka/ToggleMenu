@@ -1,0 +1,23 @@
+{
+  "header": {
+    "comment": "eric tasks file for project ToggleMenu",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2022-05-06, 21:43:26"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1651842561.6017625,
+      "type": 2,
+      "uid": "{ae65aa63-49f1-4df8-b5d8-7fa6235216cf}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "C:\\Users\\Sigsh\\Documents\\testPyQt5\\ToggleMenu\\Ui_ToggleMenu.py"
+    }
+  ]
+}
